@@ -46,8 +46,8 @@ allprojects {
 
 Step 2: Update "defaultTargetSdkVersion" And "defaultCompileSdkVersion" in your root build.gradle
 ```
-      defaultTargetSdkVersion=31 //Integer - We ALWAYS target the latest by default
-      defaultCompileSdkVersion=31 //Integer - We ALWAYS compile with the latest by default
+      defaultTargetSdkVersion=31 
+      defaultCompileSdkVersion=31 
 ```
 
 # Run Cordova Build Command
