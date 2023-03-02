@@ -72,7 +72,7 @@ Place Both The License In Your "Resources" Folder, And Add The License To The Ta
 # javascript(index.js)
 
 ## Plugin access in Javascript
-`cordova.plugins.ACCURAService`
+`cordova.plugins.CordovaMRZPlugin`
 
 In your cordova javascript event get plugin
 
